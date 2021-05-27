@@ -1,5 +1,6 @@
 # Leet Code solutions
 
-|  #  |       Title         | Difficulty |
-| --- | ------------------- | --------- |
-| 3 | [lengthOfLongestSubstring](https://github.com/compmonk/LeetCode/tree/master/lengthOfLongestSubstring)| Medium |
+|  #  |       Title         | Name    | Difficulty |
+| --- | ------------------- | ------- | ---- |
+| 3 | Longest Substring Without Repeating Characters |[lengthOfLongestSubstring](https://github.com/compmonk/LeetCode/tree/master/lengthOfLongestSubstring)| Medium |
+| 11 | Container With Most Water |[maxArea](https://github.com/compmonk/LeetCode/tree/master/maxArea)| Medium |
